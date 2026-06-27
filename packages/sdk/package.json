@@ -4,7 +4,7 @@
   "description": "TypeScript SDK for the Stellar DID Credit Protocol",
   "main": "src/index.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "node init && tsc"
   },
   "dependencies": {
     "@stellar/stellar-sdk": "^12.0.0"
