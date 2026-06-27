@@ -3,6 +3,8 @@
   "private": true,
   "packageManager": "pnpm@9.0.0",
   "devDependencies": {
-    "@types/node": "^26.0.0"
+    "@types/node": "^26.0.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2"
   }
 }
