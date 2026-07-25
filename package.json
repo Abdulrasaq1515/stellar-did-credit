@@ -13,7 +13,9 @@
   },
   "devDependencies": {
     "@types/node": "^26.0.0",
+    "dotenv": "^8.2.0",
+    "lefthook": "1.11.13",
     "license-checker-rseidelsohn": "^4.4.1",
-    "lefthook": "1.11.13"
+    "node-fetch": "^3.3.2"
   }
 }
